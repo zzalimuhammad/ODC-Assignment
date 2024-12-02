@@ -1,0 +1,18 @@
+Bash supports basic arithmetic operations using the $(( )) syntax.
+
+Addition:
+result=$((5 + 3))
+echo $result
+
+Subtraction:
+result=$((10 - 4))
+echo $result
+
+Multiplication:
+result=$((2 * 6))
+echo $result
+
+Division:
+result=$((15 / 3))
+echo $result
+

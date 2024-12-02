@@ -1,0 +1,5 @@
+(stdout)
+ Used for normal program output, such as results, messages, or data.
+
+(stderr)
+Used for error messages, warnings, or diagnostic information.
